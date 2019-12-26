@@ -1,0 +1,5 @@
+#container{
+  display: grid;
+}
+
+::ng-deep .legend-label-text{ color: #000 !important; }
